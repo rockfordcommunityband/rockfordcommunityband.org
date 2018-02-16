@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="4cm"
+   height="4cm"
+   viewBox="0 0 40.000001 40.000001"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.1 r15371"
+   sodipodi:docname="recreation-attempt-untraced.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.8284271"
+     inkscape:cx="84.749279"
+     inkscape:cy="81.901786"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:window-width="958"
+     inkscape:window-height="1008"
+     inkscape:window-x="-7"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     units="cm"
+     inkscape:snap-global="false">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3684"
+       units="mm"
+       spacingx="0.5"
+       spacingy="0.5" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-256.99998)">
+    <circle
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.32291663;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path3688"
+       cx="20"
+       cy="276.99997"
+       r="20" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:none;stroke-width:1.05833328;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 10.603073,273.57977 c 1.888928,-5.18979 7.62735,-7.86565 12.817128,-5.97673 5.189782,1.88893 7.865647,7.62736 5.976725,12.81713 -1.888928,5.18979 -7.627348,7.86565 -12.817126,5.97673 -5.189784,-1.88893 -7.8656475,-7.62736 -5.976727,-12.81713 z"
+       id="textpath-rockford"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="sssss"
+       inkscape:label="#path4501" />
+    <circle
+       style="fill:none;fill-opacity:1;stroke:#ff7f00;stroke-width:1.32291663;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path4497"
+       cx="20"
+       cy="276.99997"
+       r="17.5" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05555573px;line-height:9.89541626px;font-family:'Tw Cen MT';-inkscape-font-specification:'Tw Cen MT Bold';letter-spacing:-0.26458333px;word-spacing:0px;fill:#ff7f00;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       id="text4508"><textPath
+         xlink:href="#path4501"
+         id="textPath4519"><tspan
+   id="tspan4512"
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:9.89541626px;font-family:'Tw Cen MT';-inkscape-font-specification:'Tw Cen MT Bold';fill:#ff7f00;fill-opacity:1;stroke-width:0.26458332px;font-size:7.05555573px;letter-spacing:-0.26458333px;">Rockford</tspan></textPath></text>
+    <path
+       sodipodi:nodetypes="sssss"
+       inkscape:connector-curvature="0"
+       id="textpath-communityband"
+       d="m 5.5620751,277.16398 c 6.7e-6,7.93303 6.4309779,14.36401 14.3640049,14.36401 7.933013,-10e-6 14.363997,-6.43097 14.363994,-14.36401 -10e-7,-7.93302 -6.430978,-14.36401 -14.363999,-14.364 -7.933016,0 -14.3640029,6.43096 -14.3639999,14.364 z"
+       style="fill:none;fill-opacity:1;stroke:none;stroke-width:1.52019;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:label="#path4522" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.70277778px;line-height:5.5562501px;font-family:'Tw Cen MT';-inkscape-font-specification:'Tw Cen MT Bold';letter-spacing:-0.26458333px;word-spacing:0px;fill:#ff8000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       id="text4526"><textPath
+         xlink:href="#path4522"
+         id="textPath4528"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.70277778px;line-height:5.5562501px;font-family:'Tw Cen MT';-inkscape-font-specification:'Tw Cen MT Bold';letter-spacing:-0.26458333px;fill:#ff8000;fill-opacity:1;stroke-width:0.26458332px;"
+   id="tspan4524">Community Band</tspan></textPath></text>
+    <path
+       style="fill:#ff8000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 24.705469,271.66613 c 1.916852,1.41176 3.24682,4.63685 0.336403,8.93633 0,0 0.490419,-4.703 -2.089269,-7.1504 z"
+       id="path-note"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"
+       inkscape:label="#path4531" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#ff7f00;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 24.325131,271.61652 17.874736,283.2844"
+       id="path4538"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <ellipse
+       style="fill:none;fill-opacity:1;stroke:#ff7f00;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path4540"
+       cx="132.90825"
+       cy="248.8678"
+       rx="3.0427084"
+       ry="1.8520833"
+       transform="rotate(25)" />
+  </g>
+</svg>
